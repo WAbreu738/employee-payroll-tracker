@@ -47,6 +47,6 @@ The average salary of all employees will be shown within the console log.
 
 <h2>Deployment</h2>
 
-The application is deployed at [Live URL].
+The application is deployed at https://wabreu738.github.io/employee-payroll-tracker/)https://wabreu738.github.io/employee-payroll-tracker/.
 
 
