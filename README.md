@@ -5,6 +5,11 @@
 
 The Employee Payroll Tracker is a web application that enables users to add employee names and salaries. Users can input multiple employees' information, view the displayed list of employees, and see the average salary of all employees added.
 
+The modified code added first creates a function called collectEmployess that utilizes a while loop to prompt the user for the data of the employee (requesting first name, last name, and employee's salary) and displays the collected data.
+
+The second displayAverageSalary function utilizes the reduce function adding all the salaries together and dividing it by the number of employees to display the average salary within the console.
+
+The third function getRandomEmployee will create and use the array of employees previously along with the .floor and .random functions to randomly return a randomly selected employee within the console logs.
 
 <h2>Features</h2>
 
