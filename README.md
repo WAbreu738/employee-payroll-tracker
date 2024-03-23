@@ -1,7 +1,7 @@
 
 <h1>Employee Payroll Tracker</h1>
 
-<h2>Description</h>
+<h2>Description</h2>
 
 The Employee Payroll Tracker is a web application that enables users to add employee names and salaries. Users can input multiple employees' information, view the displayed list of employees, and see the average salary of all employees added.
 
@@ -42,7 +42,7 @@ The average salary of all employees will be shown within the console log.
 
 <h2>Screenshots</h2>
 
-<img src='./Develop/assets/Screenshot.png'>
+<img src='./assets/Screenshot.png'>
 
 
 <h2>Deployment</h2>
